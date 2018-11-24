@@ -9,3 +9,10 @@
 - - -
 
 Here are some of the usual thinking and ideas, mainly related to the programing, but also contains some life essays or philosophical thinking.
+
+- - -
+
+
+#### 最近更新(Recent updates)
+[2018-11-24-1-关于“道”的四个层面.md](2018-11-24-1-关于“道”的四个层面.md)\
+English:[2018-11-24-1-abou-the-four-aspects-of-tao.en.md](2018-11-24-1-abou-the-four-aspects-of-tao.en.md)
