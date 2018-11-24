@@ -8,3 +8,5 @@
 **Political structure**, **development policy**, **moral ethics** of Social Systems. There are different concepts and realizations at different levels and stages.
 ## Tao of Oneself
 Following the **Tao of Force**, exploring the **Tao of Nature**, perfecting the **Tao of Civilization**, and then heading for the **"Glory Boulevard of My Dreams"**.
+
+中文: [2018-11-24-1-关于“道”的四个层面.md](2018-11-24-1-关于“道”的四个层面.md)
