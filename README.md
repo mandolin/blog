@@ -16,5 +16,4 @@ All posts, except those noted, are original.
 
 
 #### 最近更新(Recent updates)
-[2018-11-24-1-关于“道”的四个层面.md](2018-11-24-1-关于“道”的四个层面.md)\
-English: [2018-11-24-1-abou-the-four-aspects-of-tao.en.md](2018-11-24-1-abou-the-four-aspects-of-tao.en.md)
+[2019-12-22-01-markdown示例.md](2019-12-22-01-markdown示例.md)
