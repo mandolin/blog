@@ -8,4 +8,4 @@ The causes of all human misfortunes and struggles today probably stem from:
 
 There are also some countries that have made the most of the above...
 
-中文: [2019-3-11-1-人类社会不幸的根源.md](2019-3-11-1-人类社会不幸的根源.md)
+中文: [2019-03-11-01-人类社会不幸的根源.md](2019-03-11-01-人类社会不幸的根源.md)
